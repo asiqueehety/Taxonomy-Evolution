@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695477901 source:c:\users\md.ismail hossain\documents\c programming\c0def0rces\cgcalc\cpptry\friends\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
